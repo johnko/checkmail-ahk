@@ -48,7 +48,7 @@ IRC (port 6667)
 	Gui, Font, bold
 	Gui, Add, Text, x10 y10, CheckMail
 	Gui, Font, norm
-	Gui, Add, Text, x73 y10, - v0.100516 by
+	Gui, Add, Text, x73 y10, - v0.100517 by
 	Gui, Font, cBlue underline
 	Gui, Add, Text, x150 y10 gLaunchWebsite, johnko.ca
 	Gui, Font, cBlack norm
